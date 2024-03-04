@@ -1,3 +1,7 @@
+• Programming languages: Java, Python, Go, JavaScript, TypeScript, SQL, HTML, CSS.  
+• Frameworks/Libraries: Spring Boot, Django, Flask, Node.js, React, Bootstrap, Tailwind CSS.  
+• Tools/Technologies: REST APIs, Docker, Kubernetes, Linux, AWS, Google Cloud Platform, CI/CD, PostgreSQL, MySQL, MongoDB.  
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qingquan-Li&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qingquan-Li&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qingquan-Li&theme=github)
