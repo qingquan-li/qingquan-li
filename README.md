@@ -2,12 +2,12 @@
 • Frameworks/Libraries: Spring Boot, Django, Flask, TensorFlow, Node.js, Express.js, React.  
 • Tools/Technologies: AWS, GCP, Linux, Kubernetes, Docker, GitHub Actions, PostgreSQL, MongoDB, REST APIs, Figma.  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qingquan-Li&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qingquan-Li&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qingquan-Li&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qingquan-li&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qingquan-li&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qingquan-li&theme=github)
 
 <!--
-**Qingquan-Li/Qingquan-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**qingquan-li/qingquan-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
