@@ -1,6 +1,6 @@
-• Programming languages: Java, Python, JavaScript, TypeScript, C++, Go, SQL, Bash.  
-• Frameworks/Libraries: Spring Boot, Django, Flask, TensorFlow, Node.js, Express.js, React.js.  
-• Tools/Technologies: AWS, GCP, Linux, Kubernetes, Docker, GitHub Actions, PostgreSQL, MongoDB, REST APIs, Figma.  
+• Languages: Python (proficient), Java (proficient), JavaScript/TypeScript (proficient), C++ (intermediate), SQL
+(intermediate), Bash (intermediate), Go (beginner).  
+• Tools: AWS, Linux, Docker, PostgreSQL, MongoDB, REST APIs, React, LangChain, Figma.  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qingquan-li&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qingquan-li&theme=github)
