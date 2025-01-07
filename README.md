@@ -1,6 +1,6 @@
 • Languages: Python (proficient), Java (proficient), JavaScript/TypeScript (proficient), C++ (intermediate), SQL
 (intermediate), Bash (intermediate), Go (beginner).  
-• Tools: AWS, Linux, Docker, PostgreSQL, MongoDB, REST APIs, React, LangChain, Figma.  
+• Tools: AWS, Linux, Docker, PostgreSQL, MongoDB, REST APIs, Spring Boot, FastAPI, React, LangChain, Figma.  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qingquan-li&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qingquan-li&theme=github)
